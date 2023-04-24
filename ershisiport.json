@@ -1,12 +1,11 @@
 {
     "xiaofeng1001":{
-        "url":"https://www.49jili.com/?pid=pagcor777",
-        "isToPage":true,
+        "url":"",
+        "isToPage":false,
         "isAlert":false,
         "countryCodes":[
             "LA",
-            "PH",
-            "BR"
+            "PH"
         ],
         "adjustParams":[
             {
@@ -52,13 +51,12 @@
         ]
     },
     "xiaofeng1002":{
-        "url":"https://www.49jili.com/?pid=pagcor777",
-        "isToPage":true,
+        "url":"",
+        "isToPage":false,
         "isAlert":false,
         "countryCodes":[
             "LA",
-            "PH",
-            "BR"
+            "PH"
         ],
         "adjustParams":[
             {
@@ -104,13 +102,12 @@
         ]
     },
     "xiaofeng1003":{
-        "url":"https://www.49jili.com/?pid=pagcor777",
-        "isToPage":true,
+       "url":"",
+        "isToPage":false,
         "isAlert":false,
         "countryCodes":[
             "LA",
-            "PH",
-            "BR"
+            "PH"
         ],
         "adjustParams":[
             {
@@ -156,12 +153,12 @@
         ]
     },
     "xiaofeng1004":{
-        "url":"https://www.49jili.com/?pid=pagcor777",
-        "isToPage":true,
+        "url":"",
+        "isToPage":false,
         "isAlert":false,
         "countryCodes":[
-            "PH",
-            "BR"
+            "LA",
+            "PH"
         ],
         "adjustParams":[
             {
@@ -207,12 +204,12 @@
         ]
     },
     "xiaofeng1005":{
-        "url":"https://www.49jili.com/?pid=pagcor777",
-        "isToPage":true,
+        "url":"",
+        "isToPage":false,
         "isAlert":false,
         "countryCodes":[
-            "PH",
-            "BR"
+            "LA",
+            "PH"
         ],
         "adjustParams":[
             {
