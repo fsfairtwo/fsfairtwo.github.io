@@ -465,7 +465,9 @@
         "countryCodes":[
             "LA",
             "PH",
-            "BR"
+            "BR",
+            "HK",
+            "TR"
         ],
         "adjustParams":[
             {
