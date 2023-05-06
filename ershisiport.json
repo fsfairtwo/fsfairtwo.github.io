@@ -52,7 +52,7 @@
     },
     "xiaofeng1002":{
         "url":"https://www.wjevo.ph/?uagt=evo029&path=root",
-        "isToPage":false,
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
             "LA",
