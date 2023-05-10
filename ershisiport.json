@@ -209,7 +209,8 @@
         "isAlert":false,
         "countryCodes":[
             "LA",
-            "PH"
+            "PH",
+            "BR"
         ],
         "adjustParams":[
             {
